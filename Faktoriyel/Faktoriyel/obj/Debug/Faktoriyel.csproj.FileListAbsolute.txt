@@ -1,0 +1,7 @@
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\VâviZof\source\repos\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb

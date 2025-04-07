@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Fibonacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F35C978-6B81-4183-9DEC-A5B13535EDCF}|Fibonacci\\Fibonacci.csproj|c:\\users\\v\u00E2vizof\\desktop\\algoritma \u00E7al\u0131\u015Fmalar\u0131\\fibonacci\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F35C978-6B81-4183-9DEC-A5B13535EDCF}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Fibonacci\\Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Fibonacci\\Fibonacci\\Program.cs",
+              "RelativeToolTip": "Fibonacci\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:47:26.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
