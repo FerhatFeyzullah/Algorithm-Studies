@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\bin\Debug\Artık Yıl Hesaplama.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\bin\Debug\Artık Yıl Hesaplama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\bin\Debug\Artık Yıl Hesaplama.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\obj\Debug\Artık Yıl Hesaplama.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\obj\Debug\Artık Yıl Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\obj\Debug\Artık Yıl Hesaplama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Artık Yıl Hesaplama\Artık Yıl Hesaplama\obj\Debug\Artık Yıl Hesaplama.pdb

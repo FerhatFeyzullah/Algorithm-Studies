@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Mod Alma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54972F38-04EE-4EE4-92A8-65E3EE5B3A28}|Mod Alma\\Mod Alma.csproj|c:\\users\\v\u00E2vizof\\desktop\\algoritma \u00E7al\u0131\u015Fmalar\u0131\\mod alma\\mod alma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54972F38-04EE-4EE4-92A8-65E3EE5B3A28}|Mod Alma\\Mod Alma.csproj|solutionrelative:mod alma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Mod Alma\\Mod Alma\\Program.cs",
+              "RelativeDocumentMoniker": "Mod Alma\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Mod Alma\\Mod Alma\\Program.cs",
+              "RelativeToolTip": "Mod Alma\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:51:28.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

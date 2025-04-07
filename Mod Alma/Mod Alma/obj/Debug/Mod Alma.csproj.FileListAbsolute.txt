@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\bin\Debug\Mod Alma.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\bin\Debug\Mod Alma.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\bin\Debug\Mod Alma.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\obj\Debug\Mod Alma.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\obj\Debug\Mod Alma.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\obj\Debug\Mod Alma.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Mod Alma\Mod Alma\obj\Debug\Mod Alma.pdb
