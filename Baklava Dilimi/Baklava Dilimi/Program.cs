@@ -10,20 +10,51 @@ namespace Baklava_Dilimi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Boyut Gir: ");
-            int boyut = Convert.ToInt32(Console.ReadLine());
 
-            int[] a1 = {2,4,6,8,10};
-            int[] a2 = {1,3,5,7,9};
-         
-            for(int i=0;i<a1.Length;i++)
+            int nokta,yildiz,boyut;
+            Console.WriteLine("Boyut Gir.");
+            boyut = Convert.ToInt32(Console.ReadLine());
+            yildiz = 1;
+            nokta = boyut;
+            
+
+
+            for (int i = 0; i < boyut; i++) 
             {
-               for(int j=0;j<a2.Length;j++)
+
+                for (int x = 0; x < nokta; x++) 
                 {
-                    Console.WriteLine("dışarıdaki for değeri: " + i + "\n" + "İçerideki for değeri: " + j + "\n\n");
+                    Console.Write(".");
                 }
+                nokta--;
+
+                for (int j = 0; j < yildiz; j++) 
+                {
+                    Console.Write("*");
+                }
+                
+                yildiz+=2;
+                Console.Write("\n");           
+            
             }
-           
+
+            for (int i = 0; i < boyut+1; i++)
+            {
+
+                for (int x = 0; x < nokta; x++)
+                {
+                    Console.Write(".");
+                }
+                nokta++;
+
+                for (int j = 0; j < yildiz; j++)
+                {
+                    Console.Write("*");
+                }
+                yildiz -=2;
+                Console.Write("\n");
+
+            }
         }
     }
 }
