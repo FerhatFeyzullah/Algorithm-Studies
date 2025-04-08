@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\bin\Debug\Dizideki En büyük Ve En Küçüğü Bulma.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\bin\Debug\Dizideki En büyük Ve En Küçüğü Bulma.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\bin\Debug\Dizideki En büyük Ve En Küçüğü Bulma.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\obj\Debug\Dizideki En büyük Ve En Küçüğü Bulma.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\obj\Debug\Dizideki En büyük Ve En Küçüğü Bulma.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\obj\Debug\Dizideki En büyük Ve En Küçüğü Bulma.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma\obj\Debug\Dizideki En büyük Ve En Küçüğü Bulma.pdb

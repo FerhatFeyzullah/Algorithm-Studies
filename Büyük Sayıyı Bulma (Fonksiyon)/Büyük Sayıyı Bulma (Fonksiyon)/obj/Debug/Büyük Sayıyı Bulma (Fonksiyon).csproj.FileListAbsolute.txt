@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\bin\Debug\Büyük Sayıyı Bulma (Fonksiyon).exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\bin\Debug\Büyük Sayıyı Bulma (Fonksiyon).exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\bin\Debug\Büyük Sayıyı Bulma (Fonksiyon).pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\obj\Debug\Büyük Sayıyı Bulma (Fonksiyon).csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\obj\Debug\Büyük Sayıyı Bulma (Fonksiyon).csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\obj\Debug\Büyük Sayıyı Bulma (Fonksiyon).exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Büyük Sayıyı Bulma (Fonksiyon)\Büyük Sayıyı Bulma (Fonksiyon)\obj\Debug\Büyük Sayıyı Bulma (Fonksiyon).pdb

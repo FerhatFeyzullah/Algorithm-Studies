@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}|Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma.csproj|c:\\users\\v\u00E2vizof\\desktop\\algoritma \u00E7al\u0131\u015Fmalar\u0131\\dizideki en b\u00FCy\u00FCk ve en k\u00FC\u00E7\u00FC\u011F\u00FC bulma\\dizideki en b\u00FCy\u00FCk ve en k\u00FC\u00E7\u00FC\u011F\u00FC bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}|Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma.csproj|solutionrelative:dizideki en b\u00FCy\u00FCk ve en k\u00FC\u00E7\u00FC\u011F\u00FC bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Program.cs",
+              "RelativeDocumentMoniker": "Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Program.cs",
+              "RelativeToolTip": "Dizideki En b\u00FCy\u00FCk Ve En K\u00FC\u00E7\u00FC\u011F\u00FC Bulma\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:47:04.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

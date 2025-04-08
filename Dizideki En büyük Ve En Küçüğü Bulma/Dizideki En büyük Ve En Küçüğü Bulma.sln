@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizideki En büyük Ve En Küçüğü Bulma", "Dizideki En büyük Ve En Küçüğü Bulma\Dizideki En büyük Ve En Küçüğü Bulma.csproj", "{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5107F0C-FC5F-4C07-87F4-CAC8F2A564EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BF060F-0B82-4B1D-91D6-E9067F5CF7E8}
+	EndGlobalSection
+EndGlobal

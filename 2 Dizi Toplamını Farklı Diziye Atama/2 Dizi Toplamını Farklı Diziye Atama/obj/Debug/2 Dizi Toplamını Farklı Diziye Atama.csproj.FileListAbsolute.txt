@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\bin\Debug\2 Dizi Toplamını Farklı Diziye Atama.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\bin\Debug\2 Dizi Toplamını Farklı Diziye Atama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\bin\Debug\2 Dizi Toplamını Farklı Diziye Atama.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\obj\Debug\2 Dizi Toplamını Farklı Diziye Atama.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\obj\Debug\2 Dizi Toplamını Farklı Diziye Atama.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\obj\Debug\2 Dizi Toplamını Farklı Diziye Atama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\2 Dizi Toplamını Farklı Diziye Atama\2 Dizi Toplamını Farklı Diziye Atama\obj\Debug\2 Dizi Toplamını Farklı Diziye Atama.pdb

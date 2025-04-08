@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31E00A7-4323-4C68-8C96-61536AAEB4D5}|B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon).csproj|c:\\users\\v\u00E2vizof\\desktop\\algoritma \u00E7al\u0131\u015Fmalar\u0131\\b\u00FCy\u00FCk say\u0131y\u0131 bulma (fonksiyon)\\b\u00FCy\u00FCk say\u0131y\u0131 bulma (fonksiyon)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C31E00A7-4323-4C68-8C96-61536AAEB4D5}|B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon).csproj|solutionrelative:b\u00FCy\u00FCk say\u0131y\u0131 bulma (fonksiyon)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Art\u0131k Y\u0131l Hesaplama\\Art\u0131k Y\u0131l Hesaplama\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Art\u0131k Y\u0131l Hesaplama\\Art\u0131k Y\u0131l Hesaplama\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Art\u0131k Y\u0131l Hesaplama\\Art\u0131k Y\u0131l Hesaplama\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\Art\u0131k Y\u0131l Hesaplama\\Art\u0131k Y\u0131l Hesaplama\\Program.cs",
+              "RelativeToolTip": "..\\Art\u0131k Y\u0131l Hesaplama\\Art\u0131k Y\u0131l Hesaplama\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:31:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E2viZof\\Desktop\\Algoritma \u00C7al\u0131\u015Fmalar\u0131\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\Program.cs",
+              "RelativeToolTip": "B\u00FCy\u00FCk Say\u0131y\u0131 Bulma (Fonksiyon)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:29:32.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

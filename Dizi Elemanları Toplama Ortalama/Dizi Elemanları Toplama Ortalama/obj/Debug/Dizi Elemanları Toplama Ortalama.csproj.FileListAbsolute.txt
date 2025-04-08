@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\bin\Debug\Dizi Elemanları Toplama Ortalama.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\bin\Debug\Dizi Elemanları Toplama Ortalama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\bin\Debug\Dizi Elemanları Toplama Ortalama.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\obj\Debug\Dizi Elemanları Toplama Ortalama.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\obj\Debug\Dizi Elemanları Toplama Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\obj\Debug\Dizi Elemanları Toplama Ortalama.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Dizi Elemanları Toplama Ortalama\Dizi Elemanları Toplama Ortalama\obj\Debug\Dizi Elemanları Toplama Ortalama.pdb
