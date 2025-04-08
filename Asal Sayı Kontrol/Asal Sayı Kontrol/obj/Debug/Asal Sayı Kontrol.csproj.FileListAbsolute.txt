@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\bin\Debug\Asal Sayı Kontrol.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\bin\Debug\Asal Sayı Kontrol.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\bin\Debug\Asal Sayı Kontrol.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\obj\Debug\Asal Sayı Kontrol.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\obj\Debug\Asal Sayı Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\obj\Debug\Asal Sayı Kontrol.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Asal Sayı Kontrol\Asal Sayı Kontrol\obj\Debug\Asal Sayı Kontrol.pdb

@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\bin\Debug\Faktoriyel (Fonksiyon).exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\bin\Debug\Faktoriyel (Fonksiyon).exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\bin\Debug\Faktoriyel (Fonksiyon).pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\obj\Debug\Faktoriyel (Fonksiyon).csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\obj\Debug\Faktoriyel (Fonksiyon).csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\obj\Debug\Faktoriyel (Fonksiyon).exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Faktoriyel (Fonksiyon)\Faktoriyel (Fonksiyon)\obj\Debug\Faktoriyel (Fonksiyon).pdb

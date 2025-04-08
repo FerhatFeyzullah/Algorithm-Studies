@@ -1,0 +1,7 @@
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\bin\Debug\Baklava Dilimi.exe.config
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\bin\Debug\Baklava Dilimi.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\bin\Debug\Baklava Dilimi.pdb
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\obj\Debug\Baklava Dilimi.csproj.AssemblyReference.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\obj\Debug\Baklava Dilimi.csproj.CoreCompileInputs.cache
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\obj\Debug\Baklava Dilimi.exe
+C:\Users\VâviZof\Desktop\Algoritma Çalışmaları\Baklava Dilimi\Baklava Dilimi\obj\Debug\Baklava Dilimi.pdb
