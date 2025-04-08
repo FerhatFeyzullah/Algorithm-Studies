@@ -15,7 +15,10 @@ namespace Dizideki_En_büyük_Ve_En_Küçüğü_Bulma
 
             int [] dizi = new int[kapasite];
 
-            int enbuyuk = dizi[0];
+            
+
+
+
 
             //Dizi Elemanlarinin Belirlendigi Alan
 
@@ -23,7 +26,12 @@ namespace Dizideki_En_büyük_Ve_En_Küçüğü_Bulma
             {
                 Console.WriteLine("Dizinin "+(i+1)+". Elemanini Belirleyin.");
                 dizi[i] = Convert.ToInt32(Console.ReadLine());
+            
             }
+
+            int enbuyuk = dizi[0];
+            int enkucuk = 0;
+            
 
             //Elemanlarin En Buyugunun Bulundugu Alan
 
@@ -32,11 +40,27 @@ namespace Dizideki_En_büyük_Ve_En_Küçüğü_Bulma
                 if (dizi[j] > enbuyuk)
                 {
                     enbuyuk = dizi[j];
-                   
+                    
+                    
+                }
+                
+            }
+            enkucuk += enbuyuk + 1;
+
+            for (int k = 0; k < dizi.Length; k++)
+            {
+                if (dizi[k] < enkucuk)
+                {
+                    enkucuk = dizi[k];
+
                 }
             }
 
-            Console.WriteLine("Dizinin En Buyuk Elemani: "+enbuyuk);
+           
+
+            Console.WriteLine("Dizinin En Buyuk Elemani: " + enbuyuk);
+            Console.WriteLine("Dizinin En Kucuk Elemani: " + enkucuk);
+
 
         }
     }
