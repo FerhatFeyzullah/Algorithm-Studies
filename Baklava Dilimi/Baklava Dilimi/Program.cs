@@ -24,7 +24,7 @@ namespace Baklava_Dilimi
 
                 for (int x = 0; x < nokta; x++) 
                 {
-                    Console.Write(".");
+                    Console.Write(" ");
                 }
                 nokta--;
 
@@ -43,7 +43,7 @@ namespace Baklava_Dilimi
 
                 for (int x = 0; x < nokta; x++)
                 {
-                    Console.Write(".");
+                    Console.Write(" ");
                 }
                 nokta++;
 
